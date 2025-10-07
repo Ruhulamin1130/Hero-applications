@@ -1,0 +1,146 @@
+[
+  {
+    "image": "/public/demo-app (1).webp",
+    "title": "Hero Chat",
+    "companyName": "Hero.IO",
+    "id": 1,
+    "description": "Hero Chat is a modern real-time messaging platform built for teams and communities. It allows seamless file sharing, instant notifications, and secure end-to-end encryption so your conversations remain private and fast. You can create custom groups, manage channels, and collaborate in one smooth interface designed for productivity.",
+    "size": 56,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 625 }
+    ]
+  },
+  {
+    "image": "/public/demo-app (2).webp",
+    "title": "TaskFlow",
+    "companyName": "NextLab Ltd.",
+    "id": 2,
+    "description": "TaskFlow helps individuals and teams organize their daily routines efficiently. With an intuitive drag-and-drop interface, real-time collaboration, and smart reminders, you’ll never miss a deadline again. Perfect for project managers, students, and professionals who want to stay on top of their goals.",
+    "size": 42,
+    "reviews": 870,
+    "ratingAvg": 4.3,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 370 }
+    ]
+  },
+  {
+    "image": "/public/demo-app (3).webp",
+    "title": "Musicify",
+    "companyName": "SonicWave Studio",
+    "id": 3,
+    "description": "Musicify brings your favorite tunes to life with high-quality streaming, personalized playlists, and offline downloads. It’s lightweight yet powerful, offering smart recommendations based on your taste and mood. Enjoy music anywhere, anytime, without unnecessary ads or interruptions.",
+    "size": 68,
+    "reviews": 2300,
+    "ratingAvg": 4.8,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1735 }
+    ]
+  },
+  {
+    "image": "/public/demo-app (4).webp",
+    "title": "FitTrack",
+    "companyName": "HealthPro",
+    "id": 4,
+    "description": "FitTrack is your personal fitness assistant that helps you track workouts, steps, sleep, and calories with precision. It syncs seamlessly with smartwatches and provides detailed progress analytics to keep you motivated and consistent on your fitness journey.",
+    "size": 50,
+    "reviews": 1500,
+    "ratingAvg": 4.5,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "/public/demo-app (5).webp",
+    "title": "CodeMate",
+    "companyName": "DevSpace Inc.",
+    "id": 5,
+    "description": "CodeMate is an AI-powered coding assistant designed to make developers faster and smarter. It offers intelligent code completion, debugging tips, and built-in syntax correction. CodeMate integrates with your favorite IDEs to help you focus more on logic and less on repetitive typing.",
+    "size": 73,
+    "reviews": 3200,
+    "ratingAvg": 4.9,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 2575 }
+    ]
+  },
+  {
+    "image": "/public/demo-app (1).webp",
+    "title": "NoteHive",
+    "companyName": "SoftSpark",
+    "id": 6,
+    "description": "NoteHive is a cloud-synced note-taking app built for creators, students, and professionals. It supports markdown, image embedding, and offline access so your ideas stay safe and accessible from anywhere. Organize notes by tags and folders for a clutter-free workspace.",
+    "size": 38,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 87000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 290 }
+    ]
+  },
+  {
+    "image": "/public/demo-app (3).webp",
+    "title": "PhotoBlend",
+    "companyName": "PixelEdge Studio",
+    "id": 7,
+    "description": "PhotoBlend allows you to edit, blend, and enhance your photos with professional-grade filters, layers, and AI tools. Whether you’re a beginner or an expert, it provides smooth editing performance and creative tools to make every picture stunning.",
+    "size": 82,
+    "reviews": 2700,
+    "ratingAvg": 4.7,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 2050 }
+    ]
+  },
+  {
+    "image": "/public/demo-app (4).webp",
+    "title": "EduPath",
+    "companyName": "LearnTech",
+    "id": 8,
+    "description": "EduPath is a learning platform designed for students and lifelong learners. It provides interactive courses, quizzes, and progress tracking features. You can explore subjects from technology to art, and build real-world skills through hands-on learning experiences.",
+    "size": 60,
+    "reviews": 1900,
+    "ratingAvg": 4.4,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1095 }
+    ]
+  }
+]
